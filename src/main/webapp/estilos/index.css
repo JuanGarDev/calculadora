@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik';
+}
+
+header .contenedor{
+
+    background-color: #C0D6DF;
+    padding: 50px;
+    text-align: center;
+}
+
+header h1{
+    color: #4F6D7A;
+    font-size: 5em;
+}
