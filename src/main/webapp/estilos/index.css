@@ -8,10 +8,15 @@ body{
     background-color: #DBE9EE;
 }
 header .contenedor{
-
+    display: flex;
+    flex-direction: column;
     background-color: #4A6FA5;
     padding: 50px;
     text-align: center;
+}
+
+header a{
+    display: none;
 }
 
 header h1{
@@ -93,3 +98,4 @@ a{
     font-size: 1.8em;
     color: white;
 }
+
