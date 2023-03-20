@@ -77,13 +77,13 @@ button{
 #calculadora .operaciones:hover{
     background-color: #5F8ED4;
     transition-property: background;
-    transition-duration: .7s;
+    transition-duration: .5s;
 }
 
 button:hover{
     background-color: #6DA2F2;
     transition-property: background;
-    transition-duration: .7s;
+    transition-duration: .5s;
 }
 
 
